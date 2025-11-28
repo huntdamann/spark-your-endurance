@@ -8,7 +8,6 @@ import { GLTFLoader } from 'three/examples/jsm/Addons.js'
 import { DRACOLoader } from 'three/examples/jsm/loaders/DRACOLoader.js';
 
 import { metalness, roughness } from 'three/tsl'
-import { mx_bilerp_0 } from 'three/src/nodes/materialx/lib/mx_noise.js'
 
 
 
