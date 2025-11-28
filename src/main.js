@@ -167,7 +167,7 @@ draco.setDecoderPath('/draco/')
 const loader = new GLTFLoader();
 loader.setDRACOLoader(draco)
 loader.load(
-  '/models/spark_soda.glb',
+  '/spark-your-endurance/models/spark_soda.glb',
   (gltf) => {
   
 
