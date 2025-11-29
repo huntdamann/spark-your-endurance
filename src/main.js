@@ -161,7 +161,7 @@ function setupModel() {
 }
 
 const draco = new DRACOLoader()
-draco.setDecoderPath('/draco/')
+draco.setDecoderPath('/spark-your-endurance/draco/')
 
 
 const loader = new GLTFLoader();
