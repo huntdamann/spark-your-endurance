@@ -72,7 +72,7 @@ const tooltipSelectors = [
 ScrollTrigger.create({
   trigger: ".product-info",
   start: "75% bottom",
-  onEnter: () => 
+  onEnter: () =>  
     gsap.to(".header-1 h1 .char > span", {
       y: "0%",
       duration: 1,
